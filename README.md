@@ -2,8 +2,6 @@
 
 ### Desenvolvedor Front-End✌🏻
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/weslley-siqueira)
-
 <!-- ![weslley1235 Github](https://github-readme-stats.vercel.app/api/top-langs/?username=weslley1235&hide_progress=true&theme=dracula) -->
 <!-- 
 ![weslley1235 GitHub stats](https://github-readme-stats.vercel.app/api?username=weslley1235&show_icons=true&theme=radical) -->
